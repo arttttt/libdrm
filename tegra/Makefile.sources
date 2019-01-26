@@ -1,0 +1,6 @@
+LIBDRM_TEGRA_FILES := \
+	tegra.c \
+
+LIBDRM_TEGRA_H_FILES := \
+	private.h \
+	tegra.h
