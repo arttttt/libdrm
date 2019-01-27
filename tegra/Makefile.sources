@@ -1,0 +1,11 @@
+LIBDRM_TEGRA_FILES := \
+	channel.c \
+	fence.c \
+	job.c \
+	pushbuf.c \
+	tegra.c \
+	tegra_bo_cache.c \
+	private.h
+
+LIBDRM_TEGRA_H_FILES := \
+	tegra.h
